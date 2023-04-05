@@ -63,3 +63,14 @@ a {
   text-decoration: none;
   position: relative;
 }
+
+main > section {
+  min-height: 75vh;
+}
+
+#Home,
+#About,
+#Projects,
+#Contact {
+  color: #f5ecff;
+}
